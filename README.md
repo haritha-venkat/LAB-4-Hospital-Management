@@ -1,4 +1,6 @@
-# LAB-4-Hospital-Management
+## EX NO: 4
+## DATE: 27.03.2024
+# HOSPITAL MANAGEMENT SYSTEM
 ### AIM:
 To develop the Hospital management System using Star UML tool.
 ### PROBLEM STATEMENT:
